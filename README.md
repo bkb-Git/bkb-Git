@@ -1,3 +1,8 @@
+![GitHubLogo](https://user-images.githubusercontent.com/82142770/218071779-fea0ced0-4ba8-418f-ad35-8ff0de19eed8.jpeg)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/billykbett/)
+
+
 - 👋 Hi, I’m Billy @bkb-Git
 
 - I am new to the software development community and I am ready to get working on some projects and have fun coding.

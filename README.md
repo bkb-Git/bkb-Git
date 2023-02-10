@@ -42,7 +42,6 @@
   ### 🧰  Skills
 
 ---
-
 ![ReactTag](https://user-images.githubusercontent.com/82142770/218086353-a09214db-2c6f-458e-9fa2-72f2b0ef4319.svg)
 ![NextJSTag](https://user-images.githubusercontent.com/82142770/218087950-b0c12780-28f2-464c-990f-b863193a452e.svg)
 ![JavaScriptTag](https://user-images.githubusercontent.com/82142770/218086497-27cf80b0-ef95-44f9-a068-909b056d8517.svg)
@@ -51,6 +50,10 @@
 ![CSSTag](https://user-images.githubusercontent.com/82142770/218086982-37faea8c-4dc9-40b6-9906-fc3190327dff.svg)
 ![Ant Design](https://user-images.githubusercontent.com/82142770/218088583-7a981e01-52ae-47af-98b1-c3fc5a9aa4b6.svg)
 ![Firebase](https://user-images.githubusercontent.com/82142770/218088940-fec60a6d-051f-4d56-abb7-4cf60fab4d59.svg)
+![Git](https://user-images.githubusercontent.com/82142770/218089321-97378479-2b4c-4eb5-bac1-5afa01b30009.svg)
+![NodeJs](https://user-images.githubusercontent.com/82142770/218089670-d24c3217-be37-40d9-8d2e-00c5c01c03d6.svg)
+![MongoDB](https://user-images.githubusercontent.com/82142770/218090204-30ac0b4e-05ce-4b35-8f45-84ae3b20e940.svg)
+![ExpressSvg](https://user-images.githubusercontent.com/82142770/218090625-96a8c954-d1e0-407a-93a0-3c9a95fcc11f.svg)
 
 
 

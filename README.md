@@ -58,4 +58,15 @@
 <img height="100px" src="https://user-images.githubusercontent.com/82142770/218090204-30ac0b4e-05ce-4b35-8f45-84ae3b20e940.svg" alt="mongoDB logo"></img>
 <img height="100px" src="https://user-images.githubusercontent.com/82142770/218090625-96a8c954-d1e0-407a-93a0-3c9a95fcc11f.svg" alt="express logo"></img>
 
+---
+
+  ### 📊  Git Stats
+
+---
+
+<span align="center" justify="center">
+<img width="100%" src="https://streak-stats.demolab.com?user=bkb-Git&theme=github-dark-blue&border_radius=12&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=FF2400&background=FFFFFF&sideLabels=333333&currStreakNum=FF2400&sideNums=1E71EB&currStreakLabel=333333&stroke=FF2400&border=1E71EB)](https://git.io/streak-stats" alt="GitHub Streak"></img>
+</span>
+
+
 
